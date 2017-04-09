@@ -1,0 +1,26 @@
+{
+  "name": "pse-calc",
+  "version": "1.0.0",
+  "description": "NodeJs library for Philippine Stock Exchange Calculator",
+  "main": "pse-calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurapikats/pse-calc.git"
+  },
+  "keywords": [
+    "PSE",
+    "Philippine",
+    "Stock",
+    "Exchange",
+    "Calculator"
+  ],
+  "author": "Jesus B. Nana <jesus.nana@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurapikats/pse-calc/issues"
+  },
+  "homepage": "https://github.com/kurapikats/pse-calc#readme"
+}
